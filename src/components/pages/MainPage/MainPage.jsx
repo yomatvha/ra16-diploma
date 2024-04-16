@@ -4,14 +4,14 @@ import TopSales from "./TopSales"
 import MainPageCatalog from "./MainPageCatalog"
 
 const MainPage = () => {
-    return (
-        <>
-            <Header />
-            <TopSales />
-            <MainPageCatalog />
-            <Footer />
-        </>
-    )
+  return (
+    <>
+      <Header />
+      <TopSales />
+      <MainPageCatalog />
+      <Footer />
+    </>
+  )
 }
 
 export default MainPage
